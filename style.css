@@ -1,0 +1,18 @@
+.one{
+    align-items: center;
+    padding-left: 150px;
+    background-color: rgb(204, 211, 219);
+    height: 400px;
+
+}
+.cont-1{
+    background-color: linen;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       height: 100px;
+       padding-left: 150px;
+}
+.homeone{
+    font-family: 'Uchen', serif;
+    font-size: large;
+    padding-left: 20px;
+}
